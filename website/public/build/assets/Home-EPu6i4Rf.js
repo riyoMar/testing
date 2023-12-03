@@ -1,0 +1,1 @@
+import{c as r,o as s}from"./app-jE_cpfSk.js";const a=(e,o)=>{const t=e.__vccOpts||e;for(const[c,n]of o)t[c]=n;return t},_={};function f(e,o){return s(),r("h3",null,"This home vue page")}const m=a(_,[["render",f]]);export{m as default};
